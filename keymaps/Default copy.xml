@@ -5,9 +5,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="ParameterInfo" />
   <action id="Vcs.UpdateProject" />

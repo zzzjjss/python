@@ -9,12 +9,12 @@
       <file name="/Python Console" timestamp="1531802669509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/jason/pycharmProject/test.py" timestamp="1531877341742">
+      <file name="C:/jason/pycharmProject/test.py" timestamp="1531894611179">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
         <mark key="[" line="108" column="0" />
@@ -30,34 +30,34 @@
         <text encoding="base64">YXNzZXJ0IGlzaW5zdGFuY2UoZGYsIHBkLkRhdGFGcmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZGYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToKICAgIHByaW50KCJIZWxsbCB3b3JkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdCgpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3QoKToKICAgIHByaW50KCJIZWxsbCB3b3JkIikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dGVzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGYudG9fc3FsKCkK</text>
+        <text encoding="base64">dGVzdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>to_sql()</text>
