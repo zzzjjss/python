@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="AddNewTabToTheEndMode">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -7,4 +10,5 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="ParameterInfo" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
