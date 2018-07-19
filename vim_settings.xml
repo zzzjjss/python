@@ -23,10 +23,11 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="77" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531962880106">
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531964785078">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
     </filemarks>
     <jumps />
@@ -38,7 +39,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljICA=</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
@@ -65,7 +66,7 @@
         <text encoding="base64">ZGYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljICA=</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
