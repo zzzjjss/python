@@ -1,0 +1,5 @@
+<application>
+  <component name="PasswordManager">
+    <has-password-in-memory />
+  </component>
+</application>
