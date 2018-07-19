@@ -23,22 +23,13 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="77" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531912219508">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531962880106">
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="6" column="8" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="78" column="0" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="67" column="0" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="181" column="0" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="0" column="0" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="7" column="0" filename="C:/jason/pycharmProject/test.py" />
-      <jump line="5" column="18" filename="C:/jason/pycharmProject/test.py" />
-    </jumps>
+    <jumps />
     <registers>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIHB5OwppbXBvcnQgdHVzaGFyZSBhcyB0cwppbXBvcnQgcGFuZGFzIGFzIHBkCgpkZiA9IHRzLmdldF9zdG9ja19iYXNpY3MoKQphc3NlcnQgaXNpbnN0YW5jZShkZiwgcGQuRGF0YUZyYW1lKQpkZi5oZWFkKDEwMCkK</text>
