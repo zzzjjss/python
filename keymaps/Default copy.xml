@@ -14,6 +14,9 @@
   </action>
   <action id="CollapseSelection" />
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -32,6 +35,7 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ImplementMethods" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
