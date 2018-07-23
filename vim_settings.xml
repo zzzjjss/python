@@ -19,10 +19,10 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="D:/pythonProject/test.py" timestamp="1532354136355">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/pythonProject/test.py" timestamp="1532355163333">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
         <mark key="[" line="108" column="0" />
@@ -41,34 +41,34 @@
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIHB5OwppbXBvcnQgdHVzaGFyZSBhcyB0cwppbXBvcnQgcGFuZGFzIGFzIHBkCgpkZiA9IHRzLmdldF9zdG9ja19iYXNpY3MoKQphc3NlcnQgaXNpbnN0YW5jZShkZiwgcGQuRGF0YUZyYW1lKQpkZi5oZWFkKDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Yi4K</text>
+        <text encoding="base64">ZGVmIGQoKToK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Yi4K</text>
+        <text encoding="base64">ZGVmIGQoKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJkZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGF0KCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YiA9IHRzLmdldF9zdG9ja19iYXNpY3MoKQo=</text>
+        <text encoding="base64">ICAgIGZmZmZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXNzZXJ0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Yi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
