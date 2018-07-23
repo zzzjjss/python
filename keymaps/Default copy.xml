@@ -2,21 +2,35 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="CheckinProject" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CollapseBlock" />
   <action id="CollapseSelection" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorJoinLines" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -33,10 +47,20 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="OverrideMethods" />
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
