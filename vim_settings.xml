@@ -12,12 +12,12 @@
       <file name="/Python Console" timestamp="1532933261394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/jason/pycharmProject/test.py" timestamp="1532933322689">
+      <file name="C:/jason/pycharmProject/test.py" timestamp="1532934324176">
         <mark key="'" line="5" column="18" />
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
         <mark key="[" line="108" column="0" />
@@ -45,7 +45,7 @@
         <text encoding="base64">cHJpbnQoZGYuaGVhZCgyKSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>replace</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHB5bXlzcWwK</text>
@@ -72,7 +72,7 @@
         <text encoding="base64">ICAgIGJkZgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>replace</text>
       </register>
     </registers>
     <search>
