@@ -12,22 +12,22 @@
       <file name="/Python Console" timestamp="1532356456026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/jason/pycharmProject/test.py" timestamp="1532931258986">
-        <mark key="'" line="6" column="18" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+      <file name="C:/jason/pycharmProject/test.py" timestamp="1531911864248">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
+      <file name="D:/pythonProject/test.py" timestamp="1532864834863">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="77" />
-      </file>
-      <file name="D:/pythonProject/test.py" timestamp="1532356529803">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531964785078">
         <mark key="[" line="2" column="4" />
@@ -42,37 +42,37 @@
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIHB5OwppbXBvcnQgdHVzaGFyZSBhcyB0cwppbXBvcnQgcGFuZGFzIGFzIHBkCgpkZiA9IHRzLmdldF9zdG9ja19iYXNpY3MoKQphc3NlcnQgaXNpbnN0YW5jZShkZiwgcGQuRGF0YUZyYW1lKQpkZi5oZWFkKDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
+        <text encoding="base64">aW1wb3J0IGlvLkZpbGVJTyBhcyBmaWxlSW8K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
+        <text encoding="base64">aW1wb3J0IGlvLkZpbGVJTyBhcyBmaWxlSW8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QQo=</text>
+        <text encoding="base64">cHJpbnQoImhlbGxsIHdvcmQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Yi50b19zcWwoKQo=</text>
+        <text encoding="base64">QQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICBwYW5kYXMgYXMgcGQK</text>
+        <text encoding="base64">Yi50b19zcWwoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGQoKToK</text>
+        <text encoding="base64">aW1wb3J0ICBwYW5kYXMgYXMgcGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJkZgo=</text>
+        <text encoding="base64">ZGVmIGQoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGF0KCk6Cg==</text>
+        <text encoding="base64">ICAgIGJkZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZmZmZmCg==</text>
+        <text encoding="base64">ZGVmIGF0KCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXNzZXJ0IAo=</text>
+        <text encoding="base64">ICAgIGZmZmZmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>File from io</text>
       </register>
     </registers>
     <search>

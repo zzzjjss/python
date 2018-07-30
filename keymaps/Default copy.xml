@@ -1,5 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateRunToolWindow">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="ActivateVersionControlToolWindow">
