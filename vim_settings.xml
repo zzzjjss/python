@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1531966892836">
+      <file name="/Dummy.txt" timestamp="1533519343492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1531897762812">
@@ -19,15 +19,15 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="77" />
+      </file>
       <file name="D:/pythonProject/test.py" timestamp="1532864834863">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tushare/stock/fundamental.py" timestamp="1531798729213">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="77" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/robot/src/main/java/com/uf/Main.java" timestamp="1531964785078">
         <mark key="[" line="2" column="4" />
