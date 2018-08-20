@@ -13,7 +13,7 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
@@ -72,7 +72,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -86,10 +86,10 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="shift ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
